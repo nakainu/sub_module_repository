@@ -1,0 +1,3 @@
+[submodule "external_repository"]
+	path = external_repository
+	url = https://github.com/nakainu/external_repository.git
